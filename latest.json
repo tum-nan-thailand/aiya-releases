@@ -1,0 +1,10 @@
+{
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/tum-nan-thailand/aiya-releases/releases/latest",
+  "installerUrl": "https://github.com/tum-nan-thailand/aiya-releases/releases/download/v1.2.1/AIYA.Setup.1.2.1.exe",
+  "portableUrl": "https://github.com/tum-nan-thailand/aiya-releases/releases/download/v1.2.1/AIYA-1.2.1-portable-x64.exe",
+  "sha256": "d16cd9cc076e1956b4d59050e1a516d19b1dcc4fb59d8e97f2e7e38af85d7d28",
+  "portableSha256": "6f3b88b1935a9cf34e6e364644dd2dd9201e8055ce9d821b620776ef765a2709",
+  "mirrors": [],
+  "notes": "AIYA 1.2.1"
+}
